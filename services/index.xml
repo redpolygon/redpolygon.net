@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services-rsses on Red Polygon</title>
+    <link>http://www.redpolygon.net/services/index.xml</link>
+    <description>Recent content in Services-rsses on Red Polygon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Feb 2030 20:44:48 -0800</lastBuildDate>
+    <atom:link href="http://www.redpolygon.net/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Almost Dark</title>
+      <link>http://www.redpolygon.net/services/almostdark/</link>
+      <pubDate>Sat, 23 Feb 2030 20:44:48 -0800</pubDate>
+      
+      <guid>http://www.redpolygon.net/services/almostdark/</guid>
+      <description>&lt;p&gt;is a story based VR FPS that blends gameplay from late 90s&amp;rsquo; and early 00s&amp;rsquo; first person shooters with roomscale VR.&lt;/p&gt;
+
+&lt;p&gt;Demo coming to Steam spring 2017&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
