@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Red Polygon</title>
-    <link>http://www.redpolygon.net/index.xml</link>
+    <link>https://www.redpolygon.net/index.xml</link>
     <description>Recent content on Red Polygon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 23 Feb 2030 20:44:48 -0800</lastBuildDate>
-    <atom:link href="http://www.redpolygon.net/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.redpolygon.net/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Almost Dark</title>
-      <link>http://www.redpolygon.net/services/almostdark/</link>
+      <link>https://www.redpolygon.net/services/almostdark/</link>
       <pubDate>Sat, 23 Feb 2030 20:44:48 -0800</pubDate>
       
-      <guid>http://www.redpolygon.net/services/almostdark/</guid>
+      <guid>https://www.redpolygon.net/services/almostdark/</guid>
       <description>&lt;p&gt;is a story based VR FPS that blends gameplay from late 90s&amp;rsquo; and early 00s&amp;rsquo; first person shooters with roomscale VR.&lt;/p&gt;
 
 &lt;p&gt;Demo coming to Steam spring 2017&lt;/p&gt;
@@ -23,20 +23,20 @@
     
     <item>
       <title>Gameplay Preview</title>
-      <link>http://www.redpolygon.net/post/gameplay/</link>
+      <link>https://www.redpolygon.net/post/gameplay/</link>
       <pubDate>Thu, 23 Feb 2017 21:09:08 -0800</pubDate>
       
-      <guid>http://www.redpolygon.net/post/gameplay/</guid>
+      <guid>https://www.redpolygon.net/post/gameplay/</guid>
       <description>&lt;iframe width=&#34;455&#34; height=&#34;255&#34; src=&#34;https://www.youtube.com/embed/HkfKUH0Yl9o&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://www.redpolygon.net/privacy/</link>
+      <link>https://www.redpolygon.net/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.redpolygon.net/privacy/</guid>
+      <guid>https://www.redpolygon.net/privacy/</guid>
       <description>&lt;html&gt;&lt;head&gt;&lt;meta content=&#34;text/html; charset=UTF-8&#34; http-equiv=&#34;content-type&#34;&gt;
 &lt;script&gt;
   (function(i,s,o,g,r,a,m){i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){
@@ -55,10 +55,10 @@
     
     <item>
       <title></title>
-      <link>http://www.redpolygon.net/tos/</link>
+      <link>https://www.redpolygon.net/tos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.redpolygon.net/tos/</guid>
+      <guid>https://www.redpolygon.net/tos/</guid>
       <description>&lt;html&gt;&lt;head&gt;&lt;meta content=&#34;text/html; charset=UTF-8&#34; http-equiv=&#34;content-type&#34;&gt;
 &lt;script&gt;
   (function(i,s,o,g,r,a,m){i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){
@@ -76,10 +76,10 @@
     
     <item>
       <title>About</title>
-      <link>http://www.redpolygon.net/about/about/</link>
+      <link>https://www.redpolygon.net/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.redpolygon.net/about/about/</guid>
+      <guid>https://www.redpolygon.net/about/about/</guid>
       <description>&lt;p&gt;Red Polygon is the creator of Almost Dark for the HTC Vive&lt;/p&gt;
 </description>
     </item>

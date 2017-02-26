@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post-rsses on Red Polygon</title>
-    <link>http://www.redpolygon.net/post/index.xml</link>
+    <link>https://www.redpolygon.net/post/index.xml</link>
     <description>Recent content in Post-rsses on Red Polygon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Feb 2017 21:09:08 -0800</lastBuildDate>
-    <atom:link href="http://www.redpolygon.net/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.redpolygon.net/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Gameplay Preview</title>
-      <link>http://www.redpolygon.net/post/gameplay/</link>
+      <link>https://www.redpolygon.net/post/gameplay/</link>
       <pubDate>Thu, 23 Feb 2017 21:09:08 -0800</pubDate>
       
-      <guid>http://www.redpolygon.net/post/gameplay/</guid>
+      <guid>https://www.redpolygon.net/post/gameplay/</guid>
       <description>&lt;iframe width=&#34;455&#34; height=&#34;255&#34; src=&#34;https://www.youtube.com/embed/HkfKUH0Yl9o&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
     </item>
