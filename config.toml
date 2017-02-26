@@ -4,6 +4,7 @@ baseurl = "http://www.redpolygon.net/"
 theme = "landing-page-hugo"
 [params]
     description = ""
+    googleAnalytics = "UA-92630737-1"
 [[params.social]]
     title = "twitter"
     icon = "twitter"
