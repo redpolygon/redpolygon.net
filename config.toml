@@ -4,6 +4,7 @@ baseurl = "https://www.redpolygon.net/"
 theme = "landing-page-hugo"
 [params]
     description = ""
+    metadescription = "Red Polygon is the creator of Almost Dark for the HTC Vive"
     googleAnalytics = "UA-92630737-1"
 [[params.social]]
     title = "twitter"
