@@ -1,6 +1,6 @@
 title = "Red Polygon"
 languageCode = "en-us"
-baseurl = "http://www.redpolygon.net/"
+baseurl = "https://www.redpolygon.net/"
 theme = "landing-page-hugo"
 [params]
     description = ""
